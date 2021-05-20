@@ -1,4 +1,3 @@
-
 --Carga de datos con SQL Server
 BULK INSERT order_entity 
 FROM "D:\Escritorio\raw-data\order_entity.csv"
@@ -20,7 +19,6 @@ WITH(
 FIELDTERMINATOR = ","
 ROWTERMINATOR = "\n"
 );
-
 
 BULK INSERT user_entity 
 FROM "D:\Escritorio\raw-data\user_entity.csv"
