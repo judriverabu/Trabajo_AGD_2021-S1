@@ -8,7 +8,8 @@ _Sede Medellín_
 
 * Carolina Loaiza Salazar
 * Daniel Cardona Velasquez
-* Santiago Vasquez Rodriguez 
 * Juan David Rivera Builes
+* Santiago Vasquez Rodriguez 
+
 
 
