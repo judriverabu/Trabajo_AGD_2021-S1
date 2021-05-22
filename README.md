@@ -1,7 +1,9 @@
-# Trabajo_AGD_2021-S1
-Trabajo Principal de Analítica de Grandes Datos
+# Trabajo Nociones de Arquitectura de la Información 2021-S1
+
+Analítica de Grandes Datos
 
 _Universidad Nacional de Colombia_
+
 _Sede Medellín_
 
 * Carolina Loaiza Salazar
