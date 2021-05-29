@@ -27,4 +27,4 @@ Las evidencias del trabajo número 1 son:
 
 Las evidencias del trabajo número 2 son:
 
-* TrabajoSparkQL/TrabajoSparkQL.ipynb
+* TrabajoSparkQL.ipynb
